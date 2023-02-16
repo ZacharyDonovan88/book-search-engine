@@ -20,6 +20,6 @@
     "nodemon": "^2.0.3"
   },
   "engines": {
-    "npm": "7.x"
+    "npm": "16.x"
   }
 }
