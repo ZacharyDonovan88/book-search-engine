@@ -21,6 +21,6 @@
     "mongoose": "^6.9.1"
   },
   "engines": {
-    "npm": "7.x"
+    "npm": "16.x"
   }
 }
